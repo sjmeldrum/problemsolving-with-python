@@ -1,4 +1,4 @@
-# get input "Enter upper-case message to hide: "
+# get input "Enter uppercase message to hide: "
 secretString = ""
 ostring = ""
 
